@@ -92,6 +92,8 @@ class Blastomere:
         self.R_embryo = R_embryo
         self.Theta = Theta
         
+        self.check_variables_blastomere()
+        
     def check_variables_blastomere(self):
         # Check conditions
         ## Minimal radii

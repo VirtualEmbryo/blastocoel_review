@@ -17,4 +17,4 @@ This project is developped using Python3 and requires the following python libra
 - pumping.ipynb                   : notebook that integrates the volume-concentration-pump model of Fig. 6A.
 
 ## About
-Developped by M. Le Verge--Serandour and H., 2021
+Developped by M. Le Verge--Serandour and H. Turlier, 2021
